@@ -81,7 +81,8 @@ Example JavaScript Code
 Here’s a snippet of the JavaScript code that handles the calculator's functionality:
 
 
-const display1El = document.querySelector(".display-1");
+
+\\\\const display1El = document.querySelector(".display-1");
 const display2El = document.querySelector(".display-2");
 const tempResultEl = document.querySelector(".temp-result");
 const numbersEl = document.querySelectorAll(".number");
@@ -132,7 +133,7 @@ clearLastEl.addEventListener("click", () => {
 // Keyboard support
 window.addEventListener("keydown", (e) => {
     // Handle keyboard input
-});
+});\\\\\\\
 
 
 
@@ -174,3 +175,10 @@ For any inquiries or feedback, feel free to reach out:
 
 Email: dellahmiheso@gmail.com
 GitHub: DellahM
+
+
+
+Thank you for checking out the Simple Calculator project! We hope it helps you with basic arithmetic calculations. If you have any questions, suggestions, or need assistance, feel free to reach out or contribute to the project.
+
+
+
