@@ -80,6 +80,7 @@ Functions like clickButtonEl, clickOperation, and clickEqual simulate button cli
 Example JavaScript Code
 Here’s a snippet of the JavaScript code that handles the calculator's functionality:
 
+
 const display1El = document.querySelector(".display-1");
 const display2El = document.querySelector(".display-2");
 const tempResultEl = document.querySelector(".temp-result");
@@ -132,6 +133,11 @@ clearLastEl.addEventListener("click", () => {
 window.addEventListener("keydown", (e) => {
     // Handle keyboard input
 });
+
+
+
+
+
 
 
 
